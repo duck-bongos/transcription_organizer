@@ -1,5 +1,5 @@
-# transcription_organizer
-A web app **intended to run locally** that will allow a Psychologist to cut down on the amount of time he spends organizing and editing his transcription data. 
+# Transcription Organizer
+A "web" app **intended to run locally** that will allow a Psychologist to cut down on the amount of time he spends organizing and editing his transcription data. 
 
 __This is a highly tailored app for his needs and is not supposed to represent transcription organization as a whole.__
 
@@ -42,3 +42,4 @@ __This is a highly tailored app for his needs and is not supposed to represent t
 - No checks to enforce that the date of birth is after the date of evaluation
 - All patients' battery is "Clinical Interview" as of right now
 - No headers in Microsoft Word
+- Kinda ugly
